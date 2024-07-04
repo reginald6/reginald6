@@ -2,8 +2,8 @@
 - 👀 I’m interested in getting better at coding
 - 🌱 I’m currently in 12th grade
 - 💞️ I’m looking to collaborate on a starter software app
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me randre0310@gmail.con
+- ⚡ Fun fact: I like to watch sports
 
 <!---
 reginald6/reginald6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
